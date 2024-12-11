@@ -30,7 +30,7 @@ require (
 	github.com/libp2p/go-libp2p-quic-transport v0.8.0 // indirect
 	github.com/libp2p/go-libp2p-swarm v0.2.6
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
-	github.com/microcosm-cc/bluemonday v1.0.2
+	github.com/microcosm-cc/bluemonday v1.0.26
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mr-tron/base58 v1.1.3
 	github.com/multiformats/go-multiaddr v0.2.2
@@ -55,10 +55,10 @@ require (
 	github.com/theckman/go-flock v0.7.1
 	github.com/ugorji/go/codec v1.1.7
 	go.starlark.net v0.0.0-20200619143648-50ca820fafb9
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae
-	golang.org/x/text v0.3.3
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
+	golang.org/x/text v0.13.0
 	gonum.org/v1/gonum v0.7.0
 	gopkg.in/yaml.v2 v2.3.0
 	nhooyr.io/websocket v1.8.6
